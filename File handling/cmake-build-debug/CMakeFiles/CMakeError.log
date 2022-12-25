@@ -1,0 +1,8 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/sait_/Desktop/C/File handling/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2021.3.4/bin/ninja/win/ninja.exe cmTC_e14f8 && ninja: error: unknown target 'cmTC_e14f8'
+
+
+
+
