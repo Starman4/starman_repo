@@ -1,0 +1,1 @@
+This is an app that is written in C language to solve an one-to-one diagonal matrix.

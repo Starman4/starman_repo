@@ -1,0 +1,1 @@
+This code is uses kivy library to create an app that takes users and asks them their mood. According to their mood, app gives quotes to users. 

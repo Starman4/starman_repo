@@ -280,6 +280,4 @@ int main(){
 }}
 
 
-//Sait Metin Yurdakul	040210111
-//Arda Boran Özcan	    040200103
-//Furkan Akbaba	        040200391
+//Sait Metin Yurdakul
