@@ -1,0 +1,1 @@
+This is a python script that uses opencv and matplotlib libraries to stitch different number of images. It gets two input images and stitches them using SIFT algorithm and outputs the image. This code is used in our ROV team vehicle.
