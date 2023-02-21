@@ -1,0 +1,1 @@
+This is an exercise for getting used to class data type in python.

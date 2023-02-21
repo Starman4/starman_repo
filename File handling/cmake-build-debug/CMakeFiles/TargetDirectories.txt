@@ -1,3 +1,0 @@
-C:/Users/sait_/Desktop/C/File handling/cmake-build-debug/CMakeFiles/C.dir
-C:/Users/sait_/Desktop/C/File handling/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sait_/Desktop/C/File handling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

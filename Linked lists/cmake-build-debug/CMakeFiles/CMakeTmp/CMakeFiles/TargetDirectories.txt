@@ -1,3 +1,0 @@
-C:/Users/sait_/Desktop/C/Linked lists/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_fe10f.dir
-C:/Users/sait_/Desktop/C/Linked lists/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-C:/Users/sait_/Desktop/C/Linked lists/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

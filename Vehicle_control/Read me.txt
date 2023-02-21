@@ -1,0 +1,1 @@
+This is an python script that uses opencv library for controlling our ROV team underwater vehicle based on input video.

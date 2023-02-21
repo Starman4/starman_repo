@@ -1,0 +1,1 @@
+This scripts is an exercise for file handling in C Language.

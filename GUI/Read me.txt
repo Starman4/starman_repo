@@ -1,0 +1,1 @@
+This is python script that uses psycopg2 library for creating a graphical user interference for a web app.
